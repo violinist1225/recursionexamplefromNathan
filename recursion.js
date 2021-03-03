@@ -1,3 +1,6 @@
+// Nathan's Notes: Recursion, it is similar to iterative loops but usually it is used to traverse through a chain or related items to get to the bottom of it.
+
+// For example you can traverse through a family tree using recursion to get to the top of the hierarchy. Or in our current case to list out who every body has been in contact with we can go through it recursively.
 
 const categories = [
   {name: 'Cars', parent: null, id: 1},
